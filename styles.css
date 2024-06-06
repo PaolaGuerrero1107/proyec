@@ -1,0 +1,23 @@
+/* styles.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fefefe;
+    color: #2803fb;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+canvas {
+    background-color: #fbf8f8; /* Color de fondo del canvas */
+    border: 5px solid #3105f5; /* Borde del canvas */
+}
+
+#score {
+    margin-top: 20px;
+    margin-left: 10px; /* Separación superior */
+    text-align: center; /* Alineación centrada */
+}
